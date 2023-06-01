@@ -1,7 +1,7 @@
 <h1>Projeto-Modelo-SIR-Covid</h1>
 <p>
 -> Simulações da evolução do Covid-19 <br>
-Nesse repositório farei simulações utilizando o matplotlib no jupyter notebook para entender melhor a dinamica de propagação da doença</p>
+Nesse repositório faremos simulações utilizando o matplotlib no jupyter notebook para entender melhor a dinamica de propagação da doença</p>
 <h3>A estimativa da progressão do Covid-19 em Pernambuco</h3>
 
 <p>Em 18 de Janeiro de 2021 foram iniciadas as vacinações no estado de Pernambuco contra a Covid-19. Por isso, se torna bastante interessante desenvolvermos modelos que consigam estimar a evolução da doença diante o novo cenário, com a presença das vacinas, o qual possui grande benefícios no controle da pandemia.</p>
